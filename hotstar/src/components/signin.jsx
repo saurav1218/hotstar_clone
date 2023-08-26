@@ -34,7 +34,7 @@ let SignUp=()=>{
     if(data.username && data.phno && data.password && data.password==data.confirmpassword){
      if(inputOTP.current.value==otp){
        
-        axios.post('http://localhost:5001/signUp',data).then((res)=>{
+        axios.post('https://hotstar-clone-mo21.onrender.com/signUp',data).then((res)=>{
             alert(res.data.message)
             if(res.data.status==200){
                 navigate('/')

@@ -25,7 +25,7 @@ let Login=()=>{
             password:pswd.current.value
         }
         
-        axios.post('http://localhost:5001/login',data).then((res)=>{
+        axios.post('https://hotstar-clone-mo21.onrender.com/login',data).then((res)=>{
             alert(res.data.message)
             if(res.data.status==200){
                 navigate('/home')

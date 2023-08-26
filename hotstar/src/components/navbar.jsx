@@ -6,7 +6,7 @@ const Navbar=()=>{
    <div className="navabar" >
     <div className="log mt-1">
     <img src={logo} alt="" />
-    <Link to='https://www.hotstar.com/in/paywall'><p>Subscribe></p></Link>
+    <Link to='https://www.hotstar.com/in/paywall'><p>Subscribe</p></Link>
     
     </div>
 

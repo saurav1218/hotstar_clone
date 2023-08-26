@@ -10,7 +10,7 @@ let WatchList=()=>{
  
   useEffect(()=>{
     let fetchData=async()=>{
-      let res=await axios.get('http://localhost:5001/watchlist')
+      let res=await axios.get('https://hotstar-clone-mo21.onrender.com/watchlist')
       setItems(res.data)
      
     }

@@ -24,7 +24,7 @@ let Home=()=>{
   
    useEffect(()=>{
     let fetchData=async()=>{
-      let res=await axios.get('http://localhost:5001/items')
+      let res=await axios.get('https://hotstar-clone-mo21.onrender.com/items')
      
       setAll(res.data)
 
@@ -65,7 +65,7 @@ let Home=()=>{
           genre:x.genre,
           channel:x.channel
          }
-         axios.post('http://localhost:5001/watchlist',data).then((res)=>{
+         axios.post('https://hotstar-clone-mo21.onrender.com/watchlist',data).then((res)=>{
           alert(res.data.message)
          })
       }

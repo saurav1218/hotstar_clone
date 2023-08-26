@@ -13,7 +13,7 @@ let Movies=()=>{
   
   useEffect(()=>{
     let fetchData=async()=>{
-      let res=await axios.get('http://localhost:5001/items')
+      let res=await axios.get('https://hotstar-clone-mo21.onrender.com/items')
      
       let fields=res.data.filter((x)=>x.field=='movies')
       setMovie(fields)
@@ -74,7 +74,7 @@ let Movies=()=>{
             genre:x.genre,
             channel:x.channel
            }
-           axios.post('http://localhost:5001/watchlist',data).then((res)=>{
+           axios.post('https://hotstar-clone-mo21.onrender.com/watchlist',data).then((res)=>{
             alert(res.data.message)
            })
         }
