@@ -1,0 +1,86 @@
+.loginpage{
+    background-image: url('https://assets.nflxext.com/ffe/siteui/vlv3/fc164b4b-f085-44ee-bb7f-ec7df8539eff/d23a1608-7d90-4da1-93d6-bae2fe60a69b/IN-en-20230814-popsignuptwoweeks-perspective_alpha_website_medium.jpg');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    z-index: 2;
+  
+}
+.box{
+    height: 600px;
+    background-color: rgba(0, 0, 0, 0.548);   
+}
+
+
+.round{
+    background-color:#000027;
+   padding: 1% 0%;
+    margin-left: 45%;
+    border: 2px solid white;
+    width: 8%;
+    border-radius: 60%;
+    
+    
+}
+.loginpage .hotstar{
+   margin: 0% 0% 0% 16%;
+}
+.login{
+    background-color:#1a1a1ac4; 
+    width: 42%; 
+   margin: 5% 0% 0% 30%;
+   padding: 1%;
+   border-radius: 1%;
+   
+    
+}
+.login #otp{
+    width: 20%;
+    
+}
+.login input{
+    margin: 1% 0%;
+    border: none;
+    width: 70%;
+}
+.login button{
+    background-color: #cc0000;
+    color: white;
+    border: none;
+    margin-left: 1%;
+}
+.login a{
+    text-decoration: none;
+    font-weight: bold;
+}
+/*
+.login{
+    height: 100%;
+    width: 100%;
+    background-color: rgba(53, 63, 43, 0.876);
+   box-shadow: 0% 0% 50% black;
+   text-align: center;
+   border-radius: 5%;
+    margin-left: 25%;
+    transform: translateY(20%);
+}
+ 
+.login form{
+    width: 20%;
+    text-align: start;
+    padding-top: 15%;
+    transform: translate(90%);
+}
+.login input{
+    margin: 15% 0%;
+    border: none;
+    width: 300%;
+}
+.login button{
+    border: none;
+    background-color: black;
+    color: white;
+}
+.login a{
+    text-decoration: none;
+} */

@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "name": "jayanth",
+      "phno": "9740839515",
+      "password": "jayanth@123",
+      "id": 1
+    },
+    {
+      "name": "niranjan",
+      "phno": "7867564534",
+      "password": "nir",
+      "id": 2
+    },
+    {
+      "name": "jay",
+      "phno": "8989898989",
+      "password": "12345",
+      "id": 3
+    }
+  ]
+}

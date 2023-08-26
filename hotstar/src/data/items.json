@@ -1,0 +1,582 @@
+{
+    "items":[
+        {
+            "id":1,
+            "field":"movies",
+            "type":"hindi",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3375/1543375-i-ddf54333d74a",
+            "imgtitle":"https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3374/1543374-t-83927684c98e",
+            "title":"IB71",
+            "year":2023,
+            
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Tamil",
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action"
+           
+
+
+
+        },
+        {
+            "id":2,
+            "field":"movies",
+            "type":"english",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6773/1366773-i-18687272b330",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/6775/1366775-t-c895dcf7822f",
+            "title":"Doctor Strange",
+            "otherDetails":"2 Season",
+            "year":2022,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,English,Tamil,Telugu,Malayalaml",
+            
+            "description":"When the multiverse is unlocked , Doctor Strange must enlist help from old and new allies in order to comfront a supprising advarsery",
+            "genre":"Superhero | Action"
+            
+
+
+
+        },
+        {
+            "id":3,
+            "field":"movies",
+            "type":"kannada",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3134/1413134-i-b5c698c35e43",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3136/1413136-t-05f1b301265f",
+            "title":"Just Matmatalli",
+            "year":2023,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Telugu",
+            
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":" Romance | Conspiracy | Action"
+
+
+        },
+        {
+            "id":4,
+            "field":"movies",
+            "type":"kannada",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9775/1419775-i-36411f95284c",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/9777/1419777-t-0d0674aa96f9",
+            "title":"Jersey",
+            
+            "year":2019,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Telugu",
+            
+            "description":"Ten years after he was ousted by the selection committe, a ranji players returns to play cricket for India.Will he succeed in fulfilling his son's wish",
+            "genre":"Mythology Animation | Creatures & Monsters"
+
+
+        }
+        ,
+        {
+            "id":5,
+            "field":"movies",
+            "type":"tamil",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1344/1441344-i-58ab1747766a",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/1343/1441343-t-9416db086c15",
+            "title":"Vikram",
+            "year":2022,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Tamil",
+            
+            "description":"A covert investigation changes its course whene special officer Amar encounters an unrelenting Vikram and his pursuits to take down a notorious drug cartel",
+            "genre":"Action | Thriller | Tragedy | PowerStruggle"
+
+
+        },
+        {
+            "id":6,
+            "field":"movies",
+            "type":"telugu",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1460/1371460-i-3de84297558e",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/1462/1371462-t-7f9eb56d4ff1",
+            "title":"Baahu Bali",
+            "year":2023,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Tamil",
+            
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action"
+
+
+        },
+        
+        {
+            "id":7,
+            "field":"movies",
+            "type":"telugu",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7785/1387785-i-d75a4bf8d435",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/7787/1387787-t-a2e8d253772b",
+            "title":"RRR",
+            "year":2023,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Tamil",
+            
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action"
+
+
+        },
+        {
+            "id":8,
+            "field":"movies",
+            "type":"tamil",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3120/1423120-i-65faa7bf8578",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3119/1423119-t-580fabd96a4a",
+            "title":"PRINCE",
+            "year":2023,
+            "totalanguage":3,
+            "language":"Hindi,Kannada,Tamil",
+           
+            
+            "description":"A comedy of errors ensues whene Anbu falls for his British colleague Jessica.Cultural differences aside,there is a lot more to settle for this couple to unite.",
+            "genre":"Comedy | Romance | RomCom | Family"
+
+
+        },
+        {
+            "id":9,
+            "field":"movies",
+            "type":"english",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/219/1530219-i-898c101fb615",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/218/1530218-t-2650980402fc",
+            "title":"AVATAR",
+            "year":2022,
+            "totalanguage":6,
+            "language":"Hindi,Kannada,English,Tamil,Telugu,Malayalaml",
+            
+            "description":"Set more than a decade after the first film, dive into the story of the Sully family; the length they go to keep each others safe and the tragedies they endure.",
+            "genre":"Science Fiction | Action | Adventure | Fantasy"
+
+
+        },
+
+
+        {
+            "id":26,
+            "field":"series",
+            "type":"hindi",
+
+            "image":"https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2078/1522078-i-e11edb04fcab",
+            "imgtitle":"https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2080/1522080-t-63dc9d98445f",
+            "title":"The Legend Of Hanuman",
+            "otherDetails":"2 Season",
+            "year":2021,
+            "totalanguage":7,
+            "language":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam",
+           
+            "description":"Hanuman has realised his limitless powers, and now he must journey alone to Lanka to face the might of the demon king Ravan, his fierce sons and his armies.",
+            "genre":"Mythology Animation | Creatures & Monsters"
+
+
+        },
+
+
+        {
+            "id":27,
+            "field":"series",
+            "type":"hindi",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2074/1522074-t-ca9975ed2d60",
+            "title":"THE EMPIRE",
+            "otherDetails":"1 Season",
+            "year":2021,
+            "totalanguage":7,
+            "language":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam",
+           
+            "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history",
+            "genre":"Drama | Historical & Monsters"
+
+
+        },
+        
+        {
+            "id":51,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starsuvarna",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9020/1379020-i-d0651a139485",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/9022/1379022-t-dca1789b1d36",
+            "title":"Mahabharata",
+            "year":2021,
+            
+            "language":"Kannada",
+            
+            "description":"The bitter rivalry of Kauravas and Pandavas, Draupadi's honour and Shri Krishna's tactics. An epic tale of conflict, insecurities and power play - Mahabharata!",
+            "genre":"Mythology | Historical | Family | Betrayal"
+
+
+        },
+        
+        {
+            "id":52,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starsuvarna",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1347/1541347-i-5463f82a6fb2",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/1350/1541350-t-2181fb53b59f",
+            "title":"Radha Krishna",
+            "year":2021,
+            
+            "language":"Kannada",
+            
+            "description":"A soulful retelling of Radha and Krishna's story that stood the test of time to become the epitome of eternal love, friendship, romance and sacrifice.",
+            "genre":"Mythology | Historical | Family"
+
+
+        },
+        {
+            "id":53,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starsuvarna",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3085/1563085-i-2ce4090d9a48",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3084/1563084-t-50741b76a90b",
+            "title":"Nagapanchami",
+            "year":2021,
+            
+            "language":"Kannada",
+            
+            "description":"A soulful retelling of Radha and Krishna's story that stood the test of time to become the epitome of eternal love, friendship, romance and sacrifice.",
+            "genre":"Mythology | Historical | Family"
+
+
+        },
+        {
+            "id":54,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starplus",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7378/1417378-i-89248e601494",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/7380/1417380-t-1dfd68c5e4b7",
+            "title":"Mahabharata",
+            "year":2021,
+            
+            "language":"hindi",
+            
+            "description":"The bitter rivalry of Kauravas and Pandavas, Draupadi's honour and Shri Krishna's tactics. An epic tale of conflict, insecurities and power play - Mahabharata!",
+            "genre":"Mythology | Historical | Family | Betrayal"
+
+
+        },
+        {
+            "id":55,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starplus",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7349/1417349-i-08c5406d7035",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/7351/1417351-t-9b7748f2801c",
+            "title":"Rudrakala",
+            "year":2021,
+            
+            "language":"Hindi",
+            
+            "description":"Suspended IPS officer Ranjan ,aka Cheetah, is on a mission to find his mentors's killer.Juggling his personal and professional demons,he is in for surprise",
+            "genre":"crime | Mystery | Assassination | Chase"
+
+
+        },
+        {
+            "id":56,
+            "field":"tv",
+            "type":"show",
+            "channel":"starmaa",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9305/1499305-i-24690c0ebdf3",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/9304/1499304-t-7ef9350f93f8",
+            "title":"Sixth Sense",
+            "year":2023,
+            "language":"telugu",
+               
+            "description":"Guess its right to win its all! everyone favourites host ohmkar is back with a brand new season of challenging mind games.Are you ready?",
+            "genre":"Reality | Celebrities | Casual Viewing "
+
+
+        },
+        {
+            "id":57,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starmaa",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/2327/1572327-i-376ca0c40e41",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2326/1572326-t-e04962fcf88e",
+            "title":"Bangara",
+            "year":2023,
+            "language":"telugu",
+            "description":"An ambitious Swaragini who struggle with strammering,loses her confidence until Abhishek enters her life as a guading star.",
+            "genre":"Drama | Family  "
+
+
+        },
+        {
+            "id":58,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starpravah",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/425/1440425-i-5b5efd83e2de",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/427/1440427-t-4b968502b147",
+            "title":"Nave Lahshya",
+            "year":2023,
+            "language":"hindi",
+            "description":"Mumbai Police can find needle in a heystack and unit 9,thire elite forces and shield the common man from  criminals with a humane touch ",
+            "genre":"Crime | True Crime | Cop Drama | Covert Agensies  "
+
+
+        },
+        {
+            "id":59,
+            "field":"tv",
+            "type":"serial",
+            "channel":"starpravah",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3771/1443771-i-40d3dfa994e1",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3770/1443770-t-cc152ce3f5db",
+            "title":"Tuzech mi Geet Gaat Aahe",
+            "year":2023,
+            "language":"Marathi",
+            
+            "description":"On a quest for her estranged father,Swara disguises as a boy and embarks on a harowing journey.",
+            "genre":"Drama | Family  "
+
+
+        },
+        {
+            "id":60,
+            "field":"tv",
+            "type":"show",
+            "channel":"asianet",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/301/1440301-i-659641ef92e2",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/303/1440303-t-6af15c93435a",
+            "title":"SPB Tributes",
+            "year":2020,
+            
+            "language":"Malayalam",
+            "description":"A special tribute to singing sensation S.P Balasubrahmanyam.Relish the evergreen melodies of this legendary singer.",
+            "genre":"Reality "
+
+
+        },
+        {
+            "id":61,
+            "field":"tv",
+            "type":"serial",
+            "channel":"asianet",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/7125/1377125-i-d03c37c7d075",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/7127/1377127-t-1b3b0c943bf7",
+            "title":"Sabarimala Swami Ayyappan",
+            "year":2020,
+            "language":"Malayalam",
+            "description":"Born with the power of shiva and Vishnu,here's a buetiful retelling of the tales of the divinity called Swami Ayyappan.",
+            "genre":"Mythology "
+
+
+        },
+        
+        {
+            "id":76,
+            "field":"sports",
+            "type":"foot ball",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/9553/1569553-i-bead8a057d0f",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Premier League 2023/24 ",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+           
+            
+            "description":"Watch live stram of the Premier League 2023/24 match between Arsenal and Nottingham Forest."
+            
+
+
+        },
+        {
+            "id":77,
+            "field":"sports",
+            "type":"foot ball",
+            
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/4950/1114950-h-4266ba2a0fc8",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"GW 18:Manchester United 2-0...",
+            "year":2022,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Cristiano Ronaldo struck form against 10-man Brighton as Manchester United returned to winning ways in Premier League 2021/22"
+           
+        },
+        {
+            "id":78,
+            "field":"sports",
+            "type":"cricket",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/9475/1339475-h-990c355522f1",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+           
+            
+            "title":"Ruthless India Thrash Tired",
+            "year":2022,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"India ended their DP Asia cup 2022 campaign on a high as Virat Kohli's ton them crush Afganistan in theire last Super 4 match."
+
+
+        },
+        {
+            "id":79,
+            "field":"sports",
+            "type":"cricket",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/4150/1544150-h-619438017cd4",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"ICC Men's CWC:India'S Matchups",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Take a look at India's battles in the upcoming ICC Men's Cricket World Cup 2023"
+
+
+        },
+        {
+            "id":80,
+            "field":"sports",
+            "type":"cricket",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/3209/1573209-i-6641429687de",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Asia Cup 2023:Live from 30th Aug",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Watch all the Asia Cup 2023 action from 30th August on Disney+hotstar."
+
+
+        },
+        
+        {
+            "id":82,
+            "field":"sports",
+            "type":"kabaddi",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/8145/218145-h",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Bulls' Road to..",
+            "year":2019,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Watch how the Benglore Bulls went on to win the Vivo Pro Kabaddi League title"
+        },
+        {
+            "id":83,
+            "field":"sports",
+            "type":"kabaddi",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/4820/1114820-h-c0553b528d31",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Pirates VS Bulls",
+            "year":2022,
+            "language":{
+                "total":5,
+                "name":"Hindi,English,Telugu,Kannada,Tamil"
+               },
+            
+            "description":"Watch replay of the VIVO Pro Kabaddi 2021/22 match between Patna Pirates and Bengaluru Bulls."
+        },
+        {
+            "id":84,
+            "field":"sports",
+            "type":"kabaddi",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_384/sources/r1/cms/prod/2501/1432501-h-551061c19286",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Bulls, Thalaivas Enter SF",
+            "year":2022,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Watch replay of the Eliminators of vivo Pro Kabaddi 2022."
+        },
+        {
+            "id":85,
+            "field":"sports",
+            "type":"tennis",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/5385/1555385-i-c91ea2fec050",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Alcaraz,the Champion of Grass",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Carlos Alcaraz broke Novak Djokovic in a thrilling 26 minute game that saw 13 deuces and 32 points in the Wimbled 2023 final"
+        },
+        {
+            "id":86,
+            "field":"sports",
+            "type":"tennis",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/5095/1555095-i-da9d0791b947",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"VONDROUSOVA JABEUR",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Marketa Vondrousova broke barriers and records by becoming the first unseeded women's singles champion at Wimbledon.Here's her journey."
+        },
+        {
+            "id":87,
+            "field":"sports",
+            "type":"hockey",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/9398/1459398-i-0f6e63c49cca",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"South Africa 2-5 India",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"India ended their FIH Mens's Hockey World Cup 2023 campaign on a high with a convincing win against South Africa in the 9-12th classification match."
+        },
+        {
+            "id":88,
+            "field":"sports",
+            "type":"hockey",
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_1200/sources/r1/cms/prod/9623/1459623-i-31203986d5ef",
+            "imgtitle":"http://localhost:3000/static/media/pngfind.com-hotstar-logo-png-6725437.3b1d12915cc574eaa2a1.png",
+            "title":"Germany Bag Third Title",
+            "year":2023,
+            "totalanguage":5,
+            "language":"Hindi,English,Telugu,Kannada,Tamil",
+            
+            "description":"Germany nicked past Belgium in the penalty shoot-out of a thrilling final to clinch their third FIH Men's Hockey World Cup."
+        }
+    ]
+}

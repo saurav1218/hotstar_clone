@@ -1,0 +1,14 @@
+.singlepage .itemsDetails{
+   color: black;
+    width: 1205px;
+    padding-right: 40px;
+    background-color: rgba(255, 255, 255, 0.404);
+    
+    
+}
+.singlepage{
+    margin:0px 0px 0px 140px;
+}
+.singlepage #tato{
+    margin-bottom: 10px;
+}

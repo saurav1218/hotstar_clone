@@ -1,0 +1,106 @@
+{
+    "movies":[
+        {
+            "id":1,
+            "image":"https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/2078/1522078-i-e11edb04fcab",
+            "imgtitle":"https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2080/1522080-t-63dc9d98445f",
+            "title":"The Legend Of Hanuman",
+            "otherDetails":"2 Season",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"Hanuman has realised his limitless powers, and now he must journey alone to Lanka to face the might of the demon king Ravan, his fierce sons and his armies.",
+            "genre":"Mythology Animation | Creatures & Monsters",
+            "field":"series",
+            "type":"hindi"
+
+
+        },
+        {
+            "id":2,
+            "image":"http://localhost:3000/static/media/carousel.03b5f56b9bf39c3e0ba3.webp",
+            "imgtitle":"https://img1.hotstarext.com/image/upload/f_auto,h_136/sources/r1/cms/prod/3374/1543374-t-83927684c98e",
+            "title":"IB71",
+            "year":2023,
+            "language":{
+                "total":3,
+                "name":"Hindi,Kannada,Tamil"
+               },
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action",
+            "field":"movies",
+            "type":"hindi"
+
+
+
+        },
+        {
+            "id":3,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/6773/1366773-i-18687272b330",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/6775/1366775-t-c895dcf7822f",
+            "title":"Doctor Strange",
+            "otherDetails":"2 Season",
+            "year":2022,
+            "language":{
+                "total":6,
+                "name":"Hindi,Kannada,English,Tamil,Telugu,Malayalam"
+               },
+            "description":"When the multiverse is unlocked , Doctor Strange must enlist help from old and new allies in order to comfront a supprising advarsery",
+            "genre":"Superhero | Action",
+            "field":"movies",
+            "type":"english"
+
+
+
+        },
+        {
+            "id":4,
+            "type":"kannada",
+            "image":"https://img10.hotstar.com/image/upload/f_auto,q_90,w_256/sources/r1/cms/prod/3134/1413134-i-b5c698c35e43",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/3136/1413136-t-05f1b301265f",
+            "title":"Just Matmatalli",
+            "year":2023,
+            "language":{
+                "total":3,
+                "name":"Hindi,Kannada,Telugu"
+               },
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action"
+
+
+        },
+        {
+            "id":5,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9775/1419775-i-36411f95284c",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/9777/1419777-t-0d0674aa96f9",
+            "title":"Jersey",
+            
+            "year":2019,
+            "language":{
+                "total":3,
+                "name":"Hindi,Kannada,Telugu"
+               },
+            "description":"Ten years after he was ousted by the selection committe, a ranji players returns to play cricket for India.Will he succeed in fulfilling his son's wish",
+            "genre":"Mythology Animation | Creatures & Monsters"
+
+
+        },
+        {
+            "id":6,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1344/1441344-i-58ab1747766a",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/1343/1441343-t-9416db086c15",
+            "title":"IB71",
+            "year":2023,
+            "language":{
+                "total":3,
+                "name":"Hindi,Kannada,Tamil"
+               },
+            "description":"It's 1971; enemies are closing in! IB officer Dev Jammwal strategises to avert impending attacks. But the plan derails, forcing him to improvise: better combat.",
+            "genre":"Historical | Thriller | Conspiracy | Action"
+
+
+        }
+    ]
+}

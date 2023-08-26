@@ -1,0 +1,35 @@
+{
+    "serials":[
+        {
+            "id":1,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/9020/1379020-i-d0651a139485",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/9022/1379022-t-dca1789b1d36",
+            "title":"Mahabharata",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"The bitter rivalry of Kauravas and Pandavas, Draupadi's honour and Shri Krishna's tactics. An epic tale of conflict, insecurities and power play - Mahabharata!",
+            "genre":"Mythology | Historical | Family | Betrayal"
+
+
+        },
+        {
+            "id":1,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1347/1541347-i-5463f82a6fb2",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/1350/1541350-t-2181fb53b59f",
+            "title":"Radha Krishna",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"A soulful retelling of Radha and Krishna's story that stood the test of time to become the epitome of eternal love, friendship, romance and sacrifice.",
+            "genre":"Mythology | Historical | Family"
+
+
+        }
+        
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "seies":[
+        {
+            "id":1,
+            "field":"series",
+            "type":"hindi",
+
+
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2074/1522074-t-ca9975ed2d60",
+            "title":"THE EMPIRE",
+            "otherDetails":"1 Season",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history",
+            "genre":"Drama | Historical & Monsters"
+
+
+        },
+        {
+            "id":1,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2074/1522074-t-ca9975ed2d60",
+            "title":"THE EMPIRE",
+            "otherDetails":"1 Season",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history",
+            "genre":"Drama | Historical & Monsters"
+
+
+        },
+        {
+            "id":1,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2074/1522074-t-ca9975ed2d60",
+            "title":"THE EMPIRE",
+            "otherDetails":"1 Season",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history",
+            "genre":"Drama | Historical & Monsters"
+
+
+        },{
+            "id":1,
+            "image":"https://img10.hotstar.com/image/upload/f_auto/sources/r1/cms/prod/1463/1051463-h-3a8c06d83131",
+            "imgtitle":"https://img10.hotstar.com/image/upload/f_auto,h_136/sources/r1/cms/prod/2074/1522074-t-ca9975ed2d60",
+            "title":"THE EMPIRE",
+            "otherDetails":"1 Season",
+            "year":2021,
+            "language":{
+                "total":7,
+                "name":"Hindi,Kannada,Tamil,Telugu,Bengali,Marathi,Malayalam"
+               },
+            "description":"In the midst of scheming courtiers, ministers and a dead king, 14-year-old Babur steps up to his destiny and leaves an indelible mark on history",
+            "genre":"Drama | Historical & Monsters"
+
+
+        }
+    ]
+}

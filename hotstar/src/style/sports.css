@@ -1,0 +1,96 @@
+.sports{
+    margin-left: 140px;
+}
+.games{
+    margin-right: 30px;
+    display: inline-block;
+   
+    
+   
+}
+.title{
+    color: white;
+}
+.moviDetail{
+    
+    width: 195px;
+display: none;
+    font-size: 12px;
+   
+}
+.games .moviImage{
+  border-top-left-radius:10px ;
+}
+.tt{
+    transform: translatey(25px);
+   }
+
+
+
+.games:hover{
+   position: sticky;
+   z-index: 1;
+   transform: scaleX(1.5);
+   transition: 1s;
+ 
+  
+   .moviImage{  
+    transform: translateY(-140px);
+       
+    
+   }
+   .tt #tato{
+    margin: 0px 0px 100px 85px;
+    height: 45px;
+    width: 75px;
+    transition: 1s;
+  border: 0;
+   
+   }
+   .title{
+    display: none;
+   }
+  
+   .moviDetail{
+        display: block;
+        color: white;
+        width: 245px;
+        background-color: #0a0a0a;
+        transform: translateY(35px);
+        padding: 5px;
+        }
+} 
+.moviDetail p{
+    font-size: 8px;
+    font-weight: 100;
+ }
+.moviDetail button{
+    background-color: white;
+    align-items: center;
+   width: 115px;
+    height: 37px;
+    color: black;
+    margin-top: 5px;
+    text-align: center;
+    border: none;
+    display: flex;
+    border-radius: 4px;
+}
+.moviDetail h6{
+    font-size: 10px;
+}
+.moviDetail .btnRow{
+    display: flex;
+    margin: 0px 0px 13px 0px;
+}
+
+.games .wishList{
+    background-color: #242222;
+    color: white;
+    height: 40px;
+    margin: 5px 0px 0px 3px;
+    
+    font-size: 20px;
+    width: 30px;
+}
+

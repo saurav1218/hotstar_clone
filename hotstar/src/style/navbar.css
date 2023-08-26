@@ -1,0 +1,55 @@
+.navabar{
+    width: 100px;
+    background-color: black;
+    display: inline-block;
+    position: fixed;
+    z-index: 1;
+   text-align: center;
+   
+}
+.navabar p{
+    background-color:#333333;
+    color: goldenrod;
+    border-radius: 10px;
+    margin: 6px 5px;
+    font-size: 13px;
+    padding: 0px px;
+}
+.navabar .link{
+    margin: 50px 0px;
+}
+.link #linkname{
+    display: none;
+    font-size: 20pxpx;
+}
+
+.parentlink:hover{
+    #linkname{
+        display:inline;
+        font-weight: bolder;
+        color:darkgray;
+      
+       position: fixed;
+       
+    }
+   
+}
+
+.link:hover{
+   
+    #linkname{
+        font-size: 20px;
+        color: white;
+        
+    }
+    #symbol{
+  
+       font-size: 30px;
+       color: white;
+      }
+   
+}
+#symbol{
+  
+    color:darkgray;
+  }
