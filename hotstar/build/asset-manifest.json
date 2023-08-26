@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f8e1dac8.css",
+    "main.js": "/static/js/main.f1cc91da.js",
+    "static/js/787.da64364f.chunk.js": "/static/js/787.da64364f.chunk.js",
+    "static/media/adsImage.jpg": "/static/media/adsImage.f547e4e19e5c084aa936.jpg",
+    "static/media/carousel.webp": "/static/media/carousel.03b5f56b9bf39c3e0ba3.webp",
+    "static/media/hanuman.webp": "/static/media/hanuman.2897175ce0634014b81c.webp",
+    "static/media/ib7.webp": "/static/media/ib7.cb32a057f85fe0bd64ec.webp",
+    "static/media/D_Hotstar_logo_Dark_BG_120x120.png": "/static/media/D_Hotstar_logo_Dark_BG_120x120.11bf805351ffa34baa12.png",
+    "static/media/hotstarlogo.svg": "/static/media/hotstarlogo.671d39b0bcd09f50cd85e67d20c0753d.svg",
+    "index.html": "/index.html",
+    "main.f8e1dac8.css.map": "/static/css/main.f8e1dac8.css.map",
+    "main.f1cc91da.js.map": "/static/js/main.f1cc91da.js.map",
+    "787.da64364f.chunk.js.map": "/static/js/787.da64364f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8e1dac8.css",
+    "static/js/main.f1cc91da.js"
+  ]
+}
