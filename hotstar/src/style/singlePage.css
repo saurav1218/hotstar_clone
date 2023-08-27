@@ -12,3 +12,18 @@
 .singlepage #tato{
     margin-bottom: 10px;
 }
+.button>:nth-child(2){
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+.button>:nth-child(3){
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+}
+.button>:nth-child(3):hover{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}

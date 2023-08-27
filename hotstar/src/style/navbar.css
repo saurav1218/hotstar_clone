@@ -16,7 +16,7 @@
     padding: 0px px;
 }
 .navabar .link{
-    margin: 50px 0px;
+    margin: 40px 0px;
 }
 .link #linkname{
     display: none;
@@ -52,4 +52,15 @@
 #symbol{
   
     color:darkgray;
+  }
+
+  .logout a{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    color: white;
+    outline: 1px;
+  }
+  #logout_id:hover{
+    color: red;
   }

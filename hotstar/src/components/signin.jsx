@@ -2,6 +2,7 @@ import '../style/login.css'
 import hotstar from '../image/hotstarlogo.svg'
 
 import { useRef } from "react";
+import { Link } from 'react-router-dom';
 
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
@@ -58,6 +59,8 @@ else{
  }
     return(
         <div className="loginpage">
+ <marquee behavior="" direction="" scrollamount='10' id="marquee_hotstar">please wait!! fetching data will take sometime. </marquee>
+
             <div className="box">
             
             <div className="round">
@@ -73,9 +76,11 @@ else{
                 <button onClick={getOpt}>Get OTP</button>
                 <input type="text" ref={inputOTP} placeholder='Enter OTP' id='otp'  /><br/>
                 <input type="password"  ref={password1} placeholder="enter password"/>
-                <input type="password" ref={confirmpassword1} placeholder="confirm password"/>
-                <button className='px-3'>Submit</button><br />
-               
+                <input type="password" ref={confirmpassword1} placeholder="confirm password"/> <br />
+          <div className="button">
+
+                <button className='px-3'>Submit</button> <span>/</span><Link to={'/'}>S<span style={{color:'red'}}>i</span>gn I<span style={{color:'red'}}>n</span></Link>
+               </div>
                </form>
             </div>
             </div>

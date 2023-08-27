@@ -49,10 +49,12 @@ let Login=()=>{
            <div className="login">
                  <form action="" onSubmit={Submit}>
               <input type="tel" ref={Phno} pattern='[0-9]{10}' placeholder='phone number'/>
-                <input type="text" ref={pswd} placeholder='password'/>
+                <input type="text" ref={pswd} placeholder='password'/><br />
                 
-                <button>Get Started</button><br />
-                <Link to="/signUp">SignUp</Link>
+                <div className="login_button">
+                <button>Login</button>
+                <span>/</span>  <Link to="/signUp">S<span style={{color:'red'}}>i</span>gnUp</Link>
+                </div>
                 
                </form>
             </div>

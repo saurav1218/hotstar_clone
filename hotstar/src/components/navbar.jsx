@@ -43,6 +43,12 @@ const Navbar=()=>{
     sports_baseball
     </span><span id="linkname">Sports</span></Link>
     </div>
+
+    <div className="logout ">
+  
+   <Link to='/'><span id="logout_id">Log Out</span></Link> 
+    </div>
+
     </div>
     </div>
    
