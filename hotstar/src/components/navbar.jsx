@@ -3,7 +3,7 @@ import '../style/navbar.css'
 import { Link } from "react-router-dom"
 const Navbar=()=>{
   return(
-   <div className="navabar" >
+   <div className="navbar" >
     <div className="log mt-1">
     <img src={logo} alt="" />
     <Link to='https://www.hotstar.com/in/paywall'><p>Subscribe</p></Link>
