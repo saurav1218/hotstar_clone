@@ -37,6 +37,8 @@ let Login=()=>{
     
     return(
         <div className="loginpage">
+ <marquee behavior="" direction="" scrollamount='10' id="marquee_hotstar">please wait!! fetching data will take sometime. </marquee>
+
             <div className="box">
             
             <div className="round">
